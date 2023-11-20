@@ -1,0 +1,31 @@
+
+[
+    {
+      "id": 1,
+      "title": "A changing World Order",
+      "content": "In the midst of geopolitical shifts and technological advancements, the world order is undergoing a profound transformation. Nations are reevaluating their alliances, economic structures are evolving, and global institutions are facing new challenges. The dynamics of power and influence are in flux, with emerging players asserting their presence on the international stage.",
+      "author": "Musing",
+      "date": "August 2",
+      "readTime": "2 mins Read",
+      "views": 102
+    },
+    {
+      "id": 2,
+      "title": "India Vs Australia",
+      "content": "The cricketing rivalry between India and Australia has a storied history, featuring intense contests and unforgettable moments on the field. From nail-biting Test matches to high-octane One Day Internationals, these cricketing giants have consistently delivered thrilling performances. As both teams compete for supremacy, fans around the world eagerly anticipate each encounter, making India vs Australia clashes a highlight of the international cricket calendar.",
+      "author": "Match Details",
+      "date": "August 5",
+      "readTime": "3 mins Read",
+      "views": 150
+    },
+    {
+      "id": 3,
+      "title": "Write To build",
+      "content": "In the process of creating something meaningful, the act of writing becomes a powerful tool for conveying ideas, sharing stories, and building connections. Whether it's through crafting persuasive messages, documenting technical details, or telling engaging narratives, writing is the cornerstone of effective communication. It empowers us to express ourselves, inspire change, and contribute to the construction of a more informed and connected world.",
+      "author": "Thought",
+      "date": "August 8",
+      "readTime": "4 mins Read",
+      "views": 200
+    }
+  ]
+  
