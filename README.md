@@ -13,7 +13,7 @@ Welcome to the React Profile Project! This project is a React application that s
 
 ### Blog Posts
 
-- **Dynamic Post Display:** Render blog posts dynamically from the `Post.json` file.
+- **Dynamic Post Display:** Render (using JavaScript map function) blog posts dynamically from the `Post.json` file.
 - **Post Count:** Show the total number of posts dynamically.
 - **Interactive Like Count:** Display an emoji (👍) for each post to represent likes.
 - **Author Details:** Include author names, posting dates, read times, and view counts for each post.
@@ -23,6 +23,7 @@ Welcome to the React Profile Project! This project is a React application that s
 - HTML
 - CSS
 - SCSS
+- JavaScript
 
 ## Installation
 Follow these steps to run the project on your local machine:
